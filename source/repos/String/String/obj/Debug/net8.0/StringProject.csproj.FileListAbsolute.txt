@@ -1,0 +1,14 @@
+C:\Users\NANDINI\source\repos\String\String\bin\Debug\net8.0\StringProject.exe
+C:\Users\NANDINI\source\repos\String\String\bin\Debug\net8.0\StringProject.deps.json
+C:\Users\NANDINI\source\repos\String\String\bin\Debug\net8.0\StringProject.runtimeconfig.json
+C:\Users\NANDINI\source\repos\String\String\bin\Debug\net8.0\StringProject.dll
+C:\Users\NANDINI\source\repos\String\String\bin\Debug\net8.0\StringProject.pdb
+C:\Users\NANDINI\source\repos\String\String\obj\Debug\net8.0\StringProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NANDINI\source\repos\String\String\obj\Debug\net8.0\StringProject.AssemblyInfoInputs.cache
+C:\Users\NANDINI\source\repos\String\String\obj\Debug\net8.0\StringProject.AssemblyInfo.cs
+C:\Users\NANDINI\source\repos\String\String\obj\Debug\net8.0\StringProject.csproj.CoreCompileInputs.cache
+C:\Users\NANDINI\source\repos\String\String\obj\Debug\net8.0\StringProject.dll
+C:\Users\NANDINI\source\repos\String\String\obj\Debug\net8.0\refint\StringProject.dll
+C:\Users\NANDINI\source\repos\String\String\obj\Debug\net8.0\StringProject.pdb
+C:\Users\NANDINI\source\repos\String\String\obj\Debug\net8.0\StringProject.genruntimeconfig.cache
+C:\Users\NANDINI\source\repos\String\String\obj\Debug\net8.0\ref\StringProject.dll
